@@ -1,7 +1,7 @@
 # DAW1-ED-Pruebas-Ejemplo1
 
 
-
+[![Build Status](https://travis-ci.org/JusticeSeven/DAW1-ED-Pruebas-Ejemplo1.svg?branch=master)](https://travis-ci.org/JusticeSeven/DAW1-ED-Pruebas-Ejemplo1)
 
 
 
