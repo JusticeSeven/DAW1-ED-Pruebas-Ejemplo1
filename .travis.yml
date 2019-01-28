@@ -1,3 +1,4 @@
 language: java
 script:
   - ./gradlew build test jacocoTestReport
+  - echo "Hola, soy Aurora Gómez"
